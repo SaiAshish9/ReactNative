@@ -1,3 +1,6 @@
+
+import React from 'react'
+
 import {
 StyleSheet,
 Text,
@@ -29,8 +32,7 @@ handleChange=(input)=>{
 
 
   render(){
-    const reviews=getReviews();
-
+const {input,showInput} = this.state
     return (
       <View style={styles.container}>
       
