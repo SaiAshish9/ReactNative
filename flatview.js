@@ -15,7 +15,8 @@ function Review({name,text,avatar}){
   return (
     <View>
       <Image  source={{uri:avatar}} style={styles.avatar} />
-      <View>
+//   source={require('./abc.png)}
+    <View>
         <Text>
           {name}
           </Text>
