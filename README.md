@@ -5,4 +5,7 @@ Drawer navigator, stack navigator,
 AsyncStorage,react-native-sound,
 react-native-video,expo-cli,
 react-native-vector-icons,
-@fortawesome/fontawesome
+@fortawesome/fontawesome,
+Expo locations permissions,
+Activity indicator,
+React-native-swiper,slider
