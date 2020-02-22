@@ -10,5 +10,6 @@ Expo locations permissions,
 Activity indicator,
 React-native-swiper,slider,
 Animated.timing, decay,spring,
-schedule Local Notification Async
+schedule Local Notification Async,
+ImageEditor
 
