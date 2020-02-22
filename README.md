@@ -11,5 +11,5 @@ Activity indicator,
 React-native-swiper,slider,
 Animated.timing, decay,spring,
 schedule Local Notification Async,
-ImageEditor
+ImageEditor, Image Picker
 
