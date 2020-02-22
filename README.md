@@ -8,4 +8,7 @@ react-native-vector-icons,
 @fortawesome/fontawesome,
 Expo locations permissions,
 Activity indicator,
-React-native-swiper,slider
+React-native-swiper,slider,
+Animated.timing, decay,spring,
+schedule Local Notification Async
+
