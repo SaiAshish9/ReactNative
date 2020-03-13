@@ -26,3 +26,4 @@ Alert.alert('invalid',
 [{text:'Okay', style:'destructive',onPress:resetInputfunction}]
 
 
+Math.floor(Math.random()*(max-min))+ min
