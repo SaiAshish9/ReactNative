@@ -20,3 +20,7 @@ Elevation (Android)
 http://reactnative.dev/docs/activityindicator
 
 inputText.replace(/[^0-9]/g,'')
+
+TouchableWithoutFeedback
+
+Keyboard.dismiss()
