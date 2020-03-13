@@ -1,4 +1,4 @@
-# ReactNative Tools:
+# Notes
  
 Drawer navigator, stack navigator,
  tab navigator, navigatorOptions,
@@ -21,6 +21,8 @@ http://reactnative.dev/docs/activityindicator
 
 inputText.replace(/[^0-9]/g,'')
 
-Alert
+Alert.alert('invalid',
+'Number is not in valid range',
+[{text:'Okay', style:'destructive',onPress:resetInputfunction}]
 
 
