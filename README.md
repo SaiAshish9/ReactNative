@@ -27,3 +27,19 @@ Alert.alert('invalid',
 
 
 Math.floor(Math.random()*(max-min))+ min
+
+
+# useRef()
+
+hook that allows to create a object 
+which can be binded to input so that 
+they can be accessed.
+
+It allows to define a value which survives
+while component re-renders
+
+const low=useRef(1)
+const high=useRef(100)
+If dir == 'lower'
+low.current=curr
+
