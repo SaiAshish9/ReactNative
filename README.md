@@ -16,3 +16,5 @@ ImageEditor, Image Picker
 
 Shadow Property (iOS),
 Elevation (Android)
+
+http://reactnative.dev/docs/activityindicator
