@@ -13,3 +13,6 @@ Animated.timing, decay,spring,
 schedule Local Notification Async,
 ImageEditor, Image Picker
 
+
+Shadow Property (iOS),
+Elevation (Android)
