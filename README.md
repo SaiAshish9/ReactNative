@@ -24,3 +24,7 @@ inputText.replace(/[^0-9]/g,'')
 TouchableWithoutFeedback
 
 Keyboard.dismiss()
+
+parseInt(value)
+
+NaN
