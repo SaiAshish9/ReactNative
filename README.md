@@ -42,4 +42,12 @@ const low=useRef(1)
 const high=useRef(100)
 If dir == 'lower'
 low.current=curr
+ 
+import * as Font as 'expo-font'
 
+const fetchFonts=()=>{
+Font.loadAsync({
+'open-sans': require('./OpenSans-Regular.tff')
+})
+
+}
