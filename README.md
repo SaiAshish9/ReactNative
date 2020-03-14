@@ -46,7 +46,7 @@ low.current=curr
 import * as Font as 'expo-font'
 
 const fetchFonts=()=>{
-Font.loadAsync({
+return Font.loadAsync({
 'open-sans': require('./OpenSans-Regular.tff')
 })
 
