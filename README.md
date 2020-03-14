@@ -53,3 +53,7 @@ return Font.loadAsync({
 }
 
 import {Apploading } from 'expo'
+
+
+
+For webpage s set always width and height
