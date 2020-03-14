@@ -51,3 +51,5 @@ return Font.loadAsync({
 })
 
 }
+
+import {Apploading } from 'expo'
